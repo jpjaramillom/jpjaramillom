@@ -11,3 +11,11 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 <li><a href="https://public.tableau.com/shared/BWSK2BZ3P?:display_count=y&:origin=viz_share_link">Best Buy Sales Dashboard Analysis</a></li>
 <li><a href="https://public.tableau.com/views/WearablesAnalysis_16104618729980/Story1?:language=en&:display_count=y&:origin=viz_share_link">Wearables Industry Analysis</a></li>
 </ul>
+
+
+## Projects in Python and R 
+<ul>
+<li><a href="https://public.tableau.com/views/OlaCarsintheUK/Story1?:language=en&:display_count=y&:origin=viz_share_link">Ola Cars in the UK</a></li>
+<li><a href="https://public.tableau.com/shared/BWSK2BZ3P?:display_count=y&:origin=viz_share_link">Best Buy Sales Dashboard Analysis</a></li>
+<li><a href="https://public.tableau.com/views/WearablesAnalysis_16104618729980/Story1?:language=en&:display_count=y&:origin=viz_share_link">Wearables Industry Analysis</a></li>
+</ul>
