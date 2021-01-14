@@ -11,11 +11,14 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 <ul>
 <li><strong>Ola in the UK:</strong> How to win market share in a new market by focusing on the youngest generation and capturing value from cloud kitchens.</li>
 <li><strong>Wearables Analysis:</strong> How the wearables industry has been affected by consumer health expenditure in health and the internet and smartphone infustry.</li>
-<li><strong>Sales Dashboard:</strong> Creation of interactive dashboard displaying sales by region, target vs. sales and total sales by product category </li>
+<li><strong>Superstore Dashboard:</strong> Creation of interactive dashboard displaying sales by region, target vs. sales and total sales by product category </li>
 </ul>
 
 
 ## Projects in Python and R 
+
+file:///Users/JPJARAMILLO/Library/Mobile%20Documents/com~apple~CloudDocs/R%20-%20Project/R-Final_Project/Final%20Project/Team%202%20-%20Final%20Project.nb.html
+
 <ul>
 <li><a href="file:///Users/JPJARAMILLO/Library/Mobile%20Documents/com~apple~CloudDocs/R%20-%20Project/R-Final_Project/Final%20Project/Team%202%20-%20Final%20Project.nb.html">MoneyBall Strategy in the Emglish Premier League</a></li>
 </ul>
