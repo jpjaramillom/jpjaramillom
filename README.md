@@ -5,7 +5,7 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 <strong>content creation</strong> and <strong>markerting analytics</strong> in Marketing.</p>
 
 
-## Visit my Tableau Public
+## Visit my Tableau Public Profile
 <ul>
 <li> By clicking <a href="https://public.tableau.com/profile/juan.pablo.jaramillo#!/">here</a> you can find the next stories:</li>
 <ul>
@@ -17,7 +17,5 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 
 ## Projects in Python and R 
 <ul>
-<li><a href="https://public.tableau.com/views/OlaCarsintheUK/Story1?:language=en&:display_count=y&:origin=viz_share_link">Ola Cars in the UK</a></li>
-<li><a href="https://public.tableau.com/shared/BWSK2BZ3P?:display_count=y&:origin=viz_share_link">Best Buy Sales Dashboard Analysis</a></li>
-<li><a href="https://public.tableau.com/views/WearablesAnalysis_16104618729980/Story1?:language=en&:display_count=y&:origin=viz_share_link">Wearables Industry Analysis</a></li>
+<li><a href="file:///Users/JPJARAMILLO/Library/Mobile%20Documents/com~apple~CloudDocs/R%20-%20Project/R-Final_Project/Final%20Project/Team%202%20-%20Final%20Project.nb.html">MoneyBall Strategy in the Emglish Premier League</a></li>
 </ul>
