@@ -21,6 +21,7 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 <p>In the repositories pinned below, you can find:</p>
 <ul>
 <li> <strong>Football_Hidden_Talents:</strong> Using a predictive model done in R language, this analysis aims to build a championship winning team for low budget teams in the EPL.</li>
+<li> <strong>Exploratory_Analysis_@Eurasia:</strong> The aim of this project is to conduct an exploratory analysis - using python - over World Bank data in the region: Middle East and Russia.</li>
 </ul>
 
 
