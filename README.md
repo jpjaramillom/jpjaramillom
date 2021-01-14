@@ -17,8 +17,3 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 
 ## Projects in Python and R 
 
-file:///Users/JPJARAMILLO/Library/Mobile%20Documents/com~apple~CloudDocs/R%20-%20Project/R-Final_Project/Final%20Project/Team%202%20-%20Final%20Project.nb.html
-
-<ul>
-<li><a href="file:///Users/JPJARAMILLO/Library/Mobile%20Documents/com~apple~CloudDocs/R%20-%20Project/R-Final_Project/Final%20Project/Team%202%20-%20Final%20Project.nb.html">MoneyBall Strategy in the Emglish Premier League</a></li>
-</ul>
