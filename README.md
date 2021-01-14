@@ -13,7 +13,15 @@ MSc. of Business Analytics. The projects range from <strong>data vizualization</
 <li><strong>Wearables Analysis:</strong> How the wearables industry has been affected by consumer health expenditure in health and the internet and smartphone infustry.</li>
 <li><strong>Superstore Dashboard:</strong> Creation of interactive dashboard displaying sales by region, target vs. sales and total sales by product category </li>
 </ul>
+</ul>
 
 
 ## Projects in Python and R 
+
+<p>In the repositories pinned below, you can find:</p>
+<ul>
+<li> <strong>Football_Hidden_Talents:</strong> Using a predictive model done in R language, this analysis aims to build a championship winning team for low budget teams in the EPL.</li>
+</ul>
+
+
 
